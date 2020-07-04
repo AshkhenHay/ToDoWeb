@@ -1,0 +1,126 @@
+body {
+    background-color: paleturquoise;
+    font-size: 28px;
+}
+
+#login {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-decoration-color: black;
+
+
+}
+
+#register {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-decoration-color: black;
+
+}
+
+#btn {
+    width: 100%;
+    margin: 20px auto;
+    padding: 10px;
+    overflow: hidden;
+
+}
+
+#btn > h2 > span {
+    color: cornflowerblue;
+    cursor: pointer;
+    font-size: 24px;
+    left: 50%;
+    margin-left: -500px;
+}
+
+#add {
+    width: 100%;
+    height: 200px;
+
+}
+
+#addUser {
+    width: 45%;
+    height: auto;
+    float: left;
+    text-align: center;
+    text-decoration-color: black;
+
+
+}
+
+
+#addTask {
+    width: 45%;
+    height: auto;
+    overflow: hidden;
+    float: right;
+    text-align: center;
+    text-decoration-color: black;
+
+}
+
+#all {
+    width: 100%;
+    height: 700px;
+
+}
+
+#allUsers {
+    width: 45%;
+    height: auto;
+    text-align: center;
+    text-decoration-color: black;
+
+
+}
+#allUsers >table{
+
+    display: block;
+    margin: 10px auto;
+}
+
+#allTasks {
+    width: 45%;
+    height: auto;
+    overflow: hidden;
+    float: right;
+    text-align: center;
+    text-decoration-color: black;
+
+}
+
+#img {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#userTask {
+    width: 700px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#userDetail {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#taskDetail {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#comment {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
